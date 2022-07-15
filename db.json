@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "body": "This is the post body",
+      "publishedAt": "2022-10-02"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is the post body",
+      "publishedAt": "10-01-2022"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "This is the post body",
+      "publishedAt": "10-01-2022"
+    },
+    {
+      "id": "4",
+      "title": "Post 4",
+      "body": "This is the post body",
+      "publishedAt": "2022-10-02"
+    },
+    {
+      "id": "5",
+      "title": "Post 5",
+      "body": "This is the post body",
+      "publishedAt": "2022-10-02"
+    },
+    {
+      "id": "6",
+      "title": "Post 6",
+      "body": "This is the post body",
+      "publishedAt": "2022-10-02"
+    }
+  ]
+}
